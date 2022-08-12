@@ -1,0 +1,1 @@
+#management console to take user input, with blocked urls etc
